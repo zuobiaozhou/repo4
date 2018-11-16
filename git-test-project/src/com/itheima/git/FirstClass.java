@@ -9,4 +9,9 @@ public class FirstClass {
         System.out.println("Hello 坐标轴");
         System.out.println("Hello 坐标轴");
     }
+
+    public void test(){
+        int i = 0;
+        i += 10;
+    }
 }
